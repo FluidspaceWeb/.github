@@ -1,7 +1,7 @@
 # What is Fluidspace?
 
 <div align="center">
-  <img src="wif_alpha.png" width="70%">
+  <img src="https://raw.githubusercontent.com/FluidspaceWeb/.github/main/profile/wif_alpha.png" width="70%">
 </div>
 
 [Fluidspace](https://fluidspace.app) is a web environment to host custom-made tools for businesses and developers. Fluidspace out-of-the-box provides Auth, Role based access control (RBAC), Real-time events, Multi-tenancy, Data bucketing and 3rd party integration support (via its REST API).
@@ -11,7 +11,7 @@ Users can create multiple Spaces under their account/subscription, each Space ca
 <details>
   <summary>Expand to see end-user web interface</summary>
   <div align="center">
-    <img src="fs-glimpse-1x.png" width="70%">
+    <img src="https://raw.githubusercontent.com/FluidspaceWeb/.github/main/profile/fs-glimpse-1x.png" width="70%">
   </div>
 </details>
 
