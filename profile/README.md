@@ -1,8 +1,19 @@
 # What is Fluidspace?
 
+<div align="center">
+  <img src="wif_alpha.png" width="70%">
+</div>
+
 [Fluidspace](https://fluidspace.app) is a web environment to host custom-made tools for businesses and developers. Fluidspace out-of-the-box provides Auth, Role based access control (RBAC), Real-time events, Multi-tenancy, Data bucketing and 3rd party integration support (via its REST API).
 
 Users can create multiple Spaces under their account/subscription, each Space can theoretically have unlimited number of users and pages. These pages contain modules which are the custom-made tools inside a [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM) isolated from rest of the environment and modules.
+
+<details>
+  <summary>Expand to see end-user web interface</summary>
+  <div align="center">
+    <img src="fs-glimpse-1x.png" width="70%">
+  </div>
+</details>
 
 [Jump to Module Development Kit ⤵](#-module-development-kit)
 
@@ -51,4 +62,4 @@ Note: Datasets are NOT shared with Spaces that you joined but are not created un
 ## 🧑‍💻 Module Development Kit
 
 * Setup the  [Development server](https://github.com/FluidspaceWeb/development-server) locally using docker for backend simulation.
-* Use [App module template](https://github.com/FluidspaceWeb/app-template-vue3) as base to get started.
+* Use [App](https://github.com/FluidspaceWeb/app-template-vue3) or [Integration](https://github.com/FluidspaceWeb/integration-template-vue3) template as base to get started.
